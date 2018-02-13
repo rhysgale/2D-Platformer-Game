@@ -1,0 +1,25 @@
+=====================================================
+MAIN MENU
+=====================================================
+To navigate the menu, press W for up, and S for down. 
+
+Press enter to select an option. 
+
+In the settings menu, to change an option press enter to swap from true to false
+
+=====================================================
+IN GAME
+=====================================================
+To move the character left and right, the controls are A and D
+
+To jump, press spacebar
+
+To throw a pot, press F
+
+Pots are used to damage the AI, once the AI health hits 0, the AI is removed from the map
+
+Aim of the game is to get to the lever to open the door, then go through the door to get to the next level. 
+
+Currently the AI does no damage when hitting the player. So currently just pushes the player. 
+
+The door doesn't make the player go to another level.
